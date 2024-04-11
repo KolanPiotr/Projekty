@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/w3-css/w3.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="w3-content" style="max-width:1500px">
+        <header class="w3-panel w3-center w3-opacity">
+            <nav class="w3-bar w3-border">
+                <a class="w3-bar-item w3-button" asp-controller="Home" asp-action="Index">Home</a>
+                <a class="w3-bar-item w3-button" asp-controller="Author" asp-action="Index">autor</a>
+                <a class="w3-bar-item w3-button" asp-controller="Category" asp-action="Index">kategorie</a>
+                <a class="w3-bar-item w3-button" asp-controller="EventType" asp-action="Index">typy zdarzeń</a>
+                <a class="w3-bar-item w3-button" asp-controller="League" asp-action="Index">ligi</a>
+                <a class="w3-bar-item w3-button" asp-controller="Position" asp-action="Index">pozycje</a>
+                @* <a class="w3-bar-item w3-button" asp-controller="Tag" asp-action="Index">tagi</a> *@
+                <a class="w3-bar-item w3-button" asp-controller="Team" asp-action="Index">drużyny</a>
+                <a class="w3-bar-item w3-button" asp-controller="Player" asp-action="Index">zawodnicy</a>
+            </nav>
+
+            <nav class="w3-bar w3-border">
+                <a class="w3-bar-item w3-button" asp-controller="Author" asp-action="Add">dodaj autora</a>
+                <a class="w3-bar-item w3-button" asp-controller="Category" asp-action="Add">dodaj kategorie</a>
+                <a class="w3-bar-item w3-button" asp-controller="EventType" asp-action="Add">dodaj typ zdarzenia</a>
+                <a class="w3-bar-item w3-button" asp-controller="League" asp-action="Add">dodaj ligę</a>
+                <a class="w3-bar-item w3-button" asp-controller="Position" asp-action="Add">dodaj pozycje</a>
+          @*       <a class="w3-bar-item w3-button" asp-controller="Tag" asp-action="Add">dodaj tag</a> *@
+                <a class="w3-bar-item w3-button" asp-controller="Team" asp-action="Add">dodaj drużynę</a>
+                <a class="w3-bar-item w3-button" asp-controller="Player" asp-action="Add">dodaj zawodnika</a>
+            </nav>
+        </header>
+        <main>
+            @RenderBody()
+        </main>
+    
+        <footer class="w3-panel w3-center">
+            &copy; 2024
+        </footer>
+    </div>
+</body>
+</html>
+

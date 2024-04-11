@@ -1,0 +1,8 @@
+﻿@model ICollection<Lab02.Models.Tag>
+
+<h1>Tagi</h1>
+<ul>
+	@foreach(var tag in Model) {
+		<li>@tag.Name </li>
+	}
+</ul>

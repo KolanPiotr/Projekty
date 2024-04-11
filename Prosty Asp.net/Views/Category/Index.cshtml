@@ -1,0 +1,8 @@
+﻿@model ICollection<Lab02.Models.Category>
+
+<h1>kategorie</h1>
+<ul>
+	@foreach(var category in Model) {
+		<li>@category.Name </li>
+	}
+</ul>

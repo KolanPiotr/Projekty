@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\Lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F65703F2-1705-4620-8DA6-0FA3ED3C2BE1}|Lab02.csproj|d:\\gitprojects\\lab02\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65703F2-1705-4620-8DA6-0FA3ED3C2BE1}|Lab02.csproj|solutionrelative:mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65703F2-1705-4620-8DA6-0FA3ED3C2BE1}|Lab02.csproj|d:\\gitprojects\\lab02\\models\\matchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65703F2-1705-4620-8DA6-0FA3ED3C2BE1}|Lab02.csproj|solutionrelative:models\\matchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65703F2-1705-4620-8DA6-0FA3ED3C2BE1}|Lab02.csproj|d:\\gitprojects\\lab02\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65703F2-1705-4620-8DA6-0FA3ED3C2BE1}|Lab02.csproj|solutionrelative:models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65703F2-1705-4620-8DA6-0FA3ED3C2BE1}|Lab02.csproj|d:\\gitprojects\\lab02\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65703F2-1705-4620-8DA6-0FA3ED3C2BE1}|Lab02.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65703F2-1705-4620-8DA6-0FA3ED3C2BE1}|Lab02.csproj|d:\\gitprojects\\lab02\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65703F2-1705-4620-8DA6-0FA3ED3C2BE1}|Lab02.csproj|solutionrelative:models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65703F2-1705-4620-8DA6-0FA3ED3C2BE1}|Lab02.csproj|d:\\gitprojects\\lab02\\models\\matchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65703F2-1705-4620-8DA6-0FA3ED3C2BE1}|Lab02.csproj|solutionrelative:models\\matchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Lab02\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MyDbContext.cs",
+              "ToolTip": "D:\\GitProjects\\Lab02\\MyDbContext.cs",
+              "RelativeToolTip": "MyDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA2wCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:09:35.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Lab02\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Models\\Team.cs",
+              "ToolTip": "D:\\GitProjects\\Lab02\\Models\\Team.cs",
+              "RelativeToolTip": "Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:07:48.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Match.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Lab02\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "Models\\Match.cs",
+              "ToolTip": "D:\\GitProjects\\Lab02\\Models\\Match.cs",
+              "RelativeToolTip": "Models\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:07:04.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Lab02\\Models\\EventType.cs",
+              "RelativeDocumentMoniker": "Models\\EventType.cs",
+              "ToolTip": "D:\\GitProjects\\Lab02\\Models\\EventType.cs",
+              "RelativeToolTip": "Models\\EventType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:06:50.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchPlayer.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Lab02\\Models\\MatchPlayer.cs",
+              "RelativeDocumentMoniker": "Models\\MatchPlayer.cs",
+              "ToolTip": "D:\\GitProjects\\Lab02\\Models\\MatchPlayer.cs",
+              "RelativeToolTip": "Models\\MatchPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:06:33.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatchEvent.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Lab02\\Models\\MatchEvent.cs",
+              "RelativeDocumentMoniker": "Models\\MatchEvent.cs",
+              "ToolTip": "D:\\GitProjects\\Lab02\\Models\\MatchEvent.cs",
+              "RelativeToolTip": "Models\\MatchEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:06:05.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿@model ICollection<Lab02.Models.EventType>
+
+<h1>typy zdarzeń</h1>
+<ul>
+	@foreach(var eventType in Model) {
+		<li>@eventType.Name  </li>
+	}
+</ul>

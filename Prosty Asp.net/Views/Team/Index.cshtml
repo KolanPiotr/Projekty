@@ -1,0 +1,27 @@
+﻿@model ICollection<Lab02.Models.Team>
+
+
+<h1>drużyny</h1>
+
+<table>
+	<tr>
+		<th>Nazwa</th>
+		<th>Id</th>
+		<th>liga</th>
+		<th>IdLigi</th>
+	</tr>
+	@foreach(var team in Model) {
+	
+	<tr>
+		<td>@team.Name</td>
+		<td>@team.Id</td>
+		@if(team.League != null) {
+			<td>@team.League.Name</td>
+		}
+		else {
+			<td>null</td>		
+		}
+		<td>@team.LeagueId</td>
+	</tr>
+	}
+</table> 

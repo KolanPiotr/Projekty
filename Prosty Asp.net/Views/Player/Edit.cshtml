@@ -1,0 +1,45 @@
+﻿@model Lab02.Models.Player
+
+@if(ViewBag.PositionList.Count == 0 || ViewBag.TeamList.Count == 0) {
+    <h1>Najpierw dodaj jakąkolwiek drużyne i pozycję</h1>
+}
+else {
+    <h1>Dodaj Zespół</h1>
+    <form asp-route="Add" method="post" class="w3-container">
+        <p>
+            <label asp-for="FirstName">Imię:</label>
+            <input asp-for="FirstName" class="w3-input w3-border" value="@Model.FirstName" />
+        </p>
+        <p>
+            <label asp-for="LastName">Nazwisko:</label>
+            <input asp-for="LastName" class="w3-input w3-border" value="@Model.LastName" />
+        </p>
+        <p>
+            <label asp-for="Country">Kraj:</label>
+            <input asp-for="Country" class="w3-input w3-border" value="@Model.Country"/>
+        </p>
+        <p>
+            <label asp-for="BirthDate">data urodzenia:</label>
+            <input asp-for="BirthDate" type="date" class="w3-input w3-border" value="@Model.BirthDate"/>
+        </p>
+        <p>
+            <label asp-for="Team">aktualna drużyna: @Model.Team</label>
+            <select asp-for="Team" asp-items="@ViewBag.TeamList">
+            </select>
+        </p>
+        <p>
+            <label asp-for="Positions">Aktualne pozycje: 
+                @if (Model.Positions != null){
+                    @foreach (var position in Model.Positions) {
+                        @position.Name     
+                    }
+                }
+            </label>
+            <select asp-for="Positions" asp-items="@ViewBag.PositionList">
+            </select>
+        </p>
+        <p>
+            <button type="submit" class="w3-btn w3-border">Dodaj</button>
+        </p>
+    </form>
+}

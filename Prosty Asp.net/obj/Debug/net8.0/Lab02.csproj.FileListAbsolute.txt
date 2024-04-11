@@ -1,0 +1,270 @@
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfoInputs.cache
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfo.cs
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\Lab02.csproj.CoreCompileInputs.cache
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\Lab02.MvcApplicationPartsAssemblyInfo.cache
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\appsettings.Development.json
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\appsettings.json
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Lab02.exe
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Lab02.deps.json
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Lab02.runtimeconfig.json
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Lab02.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Lab02.pdb
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Azure.Core.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Azure.Identity.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Castle.Core.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Humanizer.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.CodeDom.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.Memory.Data.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\Lab02.csproj.AssemblyReference.cache
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\staticwebassets.build.json
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\staticwebassets.development.json
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\staticwebassets\msbuild.Lab02.Microsoft.AspNetCore.StaticWebAssets.props
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab02.props
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab02.props
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab02.props
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\staticwebassets.pack.json
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\scopedcss\bundle\Lab02.styles.css
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\Lab02.csproj.Up2Date
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\Lab02.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\refint\Lab02.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\Lab02.pdb
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\Lab02.genruntimeconfig.cache
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\ref\Lab02.dll
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\Lab02.RazorAssemblyInfo.cache
+D:\pcz\semestr 6\as\Lab02\Lab02\obj\Debug\net8.0\Lab02.RazorAssemblyInfo.cs
+D:\GitProjects\Lab02\bin\Debug\net8.0\appsettings.Development.json
+D:\GitProjects\Lab02\bin\Debug\net8.0\appsettings.json
+D:\GitProjects\Lab02\bin\Debug\net8.0\Lab02.exe
+D:\GitProjects\Lab02\bin\Debug\net8.0\Lab02.deps.json
+D:\GitProjects\Lab02\bin\Debug\net8.0\Lab02.runtimeconfig.json
+D:\GitProjects\Lab02\bin\Debug\net8.0\Lab02.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Lab02.pdb
+D:\GitProjects\Lab02\bin\Debug\net8.0\Azure.Core.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Azure.Identity.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Castle.Core.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Humanizer.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.CodeDom.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.Memory.Data.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitProjects\Lab02\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\GitProjects\Lab02\obj\Debug\net8.0\Lab02.csproj.AssemblyReference.cache
+D:\GitProjects\Lab02\obj\Debug\net8.0\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfoInputs.cache
+D:\GitProjects\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfo.cs
+D:\GitProjects\Lab02\obj\Debug\net8.0\Lab02.csproj.CoreCompileInputs.cache
+D:\GitProjects\Lab02\obj\Debug\net8.0\Lab02.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProjects\Lab02\obj\Debug\net8.0\Lab02.RazorAssemblyInfo.cache
+D:\GitProjects\Lab02\obj\Debug\net8.0\Lab02.RazorAssemblyInfo.cs
+D:\GitProjects\Lab02\obj\Debug\net8.0\staticwebassets.build.json
+D:\GitProjects\Lab02\obj\Debug\net8.0\staticwebassets.development.json
+D:\GitProjects\Lab02\obj\Debug\net8.0\staticwebassets\msbuild.Lab02.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitProjects\Lab02\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab02.props
+D:\GitProjects\Lab02\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab02.props
+D:\GitProjects\Lab02\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab02.props
+D:\GitProjects\Lab02\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GitProjects\Lab02\obj\Debug\net8.0\scopedcss\bundle\Lab02.styles.css
+D:\GitProjects\Lab02\obj\Debug\net8.0\Lab02.csproj.Up2Date
+D:\GitProjects\Lab02\obj\Debug\net8.0\Lab02.dll
+D:\GitProjects\Lab02\obj\Debug\net8.0\refint\Lab02.dll
+D:\GitProjects\Lab02\obj\Debug\net8.0\Lab02.pdb
+D:\GitProjects\Lab02\obj\Debug\net8.0\Lab02.genruntimeconfig.cache
+D:\GitProjects\Lab02\obj\Debug\net8.0\ref\Lab02.dll

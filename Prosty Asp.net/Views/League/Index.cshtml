@@ -1,0 +1,8 @@
+﻿@model ICollection<Lab02.Models.League>
+
+<h1>Ligi</h1>
+<ul>
+	@foreach(var league in Model) {
+		<li>@league.Name @league.Country @league.Level</li>
+	}
+</ul>

@@ -1,0 +1,8 @@
+﻿@model ICollection<Lab02.Models.Article>
+
+<h1>Autorzy</h1>
+<ul>
+	@foreach(var article in Model) {
+		<li>@article.Lead @article.Author @article.Category</li>
+	}
+</ul>

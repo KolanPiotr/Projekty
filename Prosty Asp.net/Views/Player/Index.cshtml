@@ -1,0 +1,12 @@
+﻿@model ICollection<Lab02.Models.Player>
+
+<h1>drużyny</h1>
+<ul>
+	@foreach(var player in Model) {
+		<li>
+			<a asp-controller="Player" asp-action="Edit" asp-route-id=@player.Id>
+				@player.FirstName @player.LastName @player.Country
+			</a>
+		</li>
+	}
+</ul>

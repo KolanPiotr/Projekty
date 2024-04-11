@@ -1,0 +1,8 @@
+﻿@model ICollection<Lab02.Models.Position>
+
+<h1>Pozycje</h1>
+<ul>
+	@foreach(var position in Model) {
+		<li>@position.Name </li>
+	}
+</ul>
